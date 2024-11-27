@@ -4,11 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",  // Updated build script
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "next": "^13.0.0",  // Update to the latest version
+    "next": "^15.0.3",
+    "ngrok": "^4.3.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.12.0",
@@ -16,8 +17,6 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
-    // Removed `next-optimized-images` if you want to use the built-in optimization
-    "next-optimized-images": "^2.3.0" // Remove if not using it
+    "next-optimized-images": "^2.3.0"
   }
 }
-
