@@ -4,4 +4,4 @@ module.exports = {
   images: {
     unoptimized: true,  // Optional: if you're handling image optimization yourself
   },
-}
+};
