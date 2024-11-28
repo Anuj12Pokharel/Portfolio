@@ -12,7 +12,7 @@ export const projects = [
     description: "An application to forecast weekly hospitalized cases using temperature and rainfall data with time series models.",
     image: '/images/Screenshot_2024-11-25_144743_converted.jpg', // Corrected image path
     tags: ['React', 'Node.js', 'Python', 'CNN'],
-    source: 'https://github.com/Anuj12Pokharel/Weekly-Hospitalized-Case/tree/master',
+    source: 'https://github.com/Anuj12Pokharel/Forcasting_App',
     id: 1,
   },
 ];
